@@ -16,8 +16,8 @@ I’m a B.Tech CSE student who loves exploring technology, solving problems, and
 - Build a strong career in tech  
 
 ## Connect With Me
-- GitHub: [your GitHub profile link]  
-- LinkedIn: [your LinkedIn link]  
+- GitHub: 
+- LinkedIn:https://www.linkedin.com/in/sanskruti-banekar-8a3999336/  
 
 ---
 ⭐️ *Thanks for visiting my profile!*
