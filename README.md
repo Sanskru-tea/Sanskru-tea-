@@ -16,7 +16,7 @@ I’m a B.Tech CSE student who loves exploring technology, solving problems, and
 - Build a strong career in tech  
 
 ## Connect With Me
-- GitHub: 
+- GitHub: https://github.com/Sanskru-tea
 - LinkedIn:https://www.linkedin.com/in/sanskruti-banekar-8a3999336/  
 
 ---
